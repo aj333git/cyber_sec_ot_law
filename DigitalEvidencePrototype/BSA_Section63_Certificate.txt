@@ -1,0 +1,24 @@
+===========================================
+BSA SECTION 63 CERTIFICATE
+===========================================
+
+Case Number
+2026-001
+
+Case Name
+WhatsApp Demo
+
+Investigator
+SI Sharma
+
+Evidence File
+sample.txt
+
+SHA-256
+79da26f56a86d904b464c885823a21d965afdfc513605c82a3f8ae8ba20f4440
+
+Imported On
+7/22/2026 12:46:44 PM
+
+Generated On
+7/22/2026 12:46:44 PM
